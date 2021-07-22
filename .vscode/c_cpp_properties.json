@@ -1,0 +1,36 @@
+//
+// !!! WARNING !!! AUTO-GENERATED FILE!
+// PLEASE DO NOT MODIFY IT AND USE "platformio.ini":
+// https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags
+//
+{
+    "configurations": [
+        {
+            "name": "PlatformIO",
+            "includePath": [
+                "/home/nick/Documents/PlatformIO/Projects/210721-212145-hello-world/include",
+                "/home/nick/Documents/PlatformIO/Projects/210721-212145-hello-world/src",
+                "/home/nick/Documents/PlatformIO/Projects/210721-212145-hello-world/lib/TensorflowLiteEsp32/src",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/home/nick/Documents/PlatformIO/Projects/210721-212145-hello-world/include",
+                    "/home/nick/Documents/PlatformIO/Projects/210721-212145-hello-world/src",
+                    "/home/nick/Documents/PlatformIO/Projects/210721-212145-hello-world/lib/TensorflowLiteEsp32/src",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=50101",
+                ""
+            ],
+            "compilerPath": "/usr/bin/gcc",
+            "compilerArgs": [
+                ""
+            ]
+        }
+    ],
+    "version": 4
+}
