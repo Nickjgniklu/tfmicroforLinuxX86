@@ -30,3 +30,5 @@ How to build PlatformIO based project
 
     # Clean build files
     > platformio run --target clean
+    
+Or Install the platformio extension and  just open the project in visual studio code
