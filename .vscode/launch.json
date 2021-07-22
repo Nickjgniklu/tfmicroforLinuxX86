@@ -9,6 +9,19 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Debug simulator",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/.pio/build/simulator/program",
+            "miDebuggerPath": "/usr/bin/gdb",
+            "MIMode": "gdb",
+            "args": [],
+            "environment": [],
+            "cwd": "${workspaceFolder}",
+            "preLaunchTask": "PlatformIO: Build (simulator)"
+          }
+      ,
+        {
             "type": "platformio-debug",
             "request": "launch",
             "name": "PIO Debug",
